@@ -27,7 +27,8 @@ Welcome to **Biker Zone**, a sleek and modern landing page designed for bike lov
 
 ## 📸 Screenshots
 
-[index.pdf](https://github.com/user-attachments/files/21821192/index.pdf)
+<img width="4000" height="11328" alt="index-1" src="https://github.com/user-attachments/assets/35c4ce77-a8c1-46dc-947e-4855c6880abf" />
+
 
 
 ---
